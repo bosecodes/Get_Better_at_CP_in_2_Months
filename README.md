@@ -7,7 +7,7 @@
 
 ## Week 1
 <details>
-
+  
   <summary> 
   Dynamic Programming 
   </summary>
